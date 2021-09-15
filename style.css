@@ -39,6 +39,23 @@ h6 {
   color: #d8d8d8;
 }
 
+button{
+	font-size: 0.8rem;
+	font-weight: 700;
+	outline: none;
+	border: none;
+	background-color: #1d1d1d;
+	color: aliceblue;
+	padding: 13px 30px;
+	cursor: pointer;
+	text-transform: uppercase;
+	transition: 0.3s ease;
+}
+
+button:hover{
+	background-color: #3a3833;
+}
+
 .navbar {
   font-size: 16px;
 }
@@ -62,4 +79,8 @@ h6 {
 	cursor: pointer;
 	font-weight: 500;
 	transition: 0.3s ease;
+}
+
+#home span{
+	color: coral;
 }
