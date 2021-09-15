@@ -108,6 +108,19 @@ button:hover{
 	body > nav > div > button:focus{
 		background-color: #fb774b;
 	}
+
+	#navbarSupportedContent > ul{
+         margin: 1rem;
+		 justify-content: flex-end;
+		 align-items: flex-end;
+		 text-align: right;
+	}
+
+	#navbarSupportedContent > ul > li:nth-child(n) > a{
+		padding: 10px 0;
+	}
+
+	
 }
 
 
