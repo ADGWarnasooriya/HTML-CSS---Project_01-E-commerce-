@@ -56,6 +56,12 @@ button:hover{
 	background-color: #3a3833;
 }
 
+hr{
+	width: 30px;
+	height: 2px !important;
+	background-color: #fb774b;
+}
+
 .navbar {
   font-size: 16px;
   top: 0;
