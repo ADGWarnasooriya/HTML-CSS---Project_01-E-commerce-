@@ -260,3 +260,15 @@ hr{
 	align-items: flex-start;
 }
 
+#banner h4{
+	color: #d8d8d8;
+}
+
+#banner h1{
+	color: #fff;
+}
+
+#banner button{
+	background-color: #fb774b;
+}
+
