@@ -272,3 +272,7 @@ hr{
 	background-color: #fb774b;
 }
 
+.cloth{
+	width: auto;
+	height: 500px !important;
+}
