@@ -192,15 +192,15 @@ button:hover{
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	align-items: flex-start;
-	text-align: start;
+	align-items:center;
+	text-align:center;
 }
 
 #new .one:nth-child(3) .details{
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	align-items: flex-start;
-	text-align: start;
+	align-items: flex-end;
+	text-align: end;
 }
 
