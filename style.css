@@ -318,3 +318,8 @@ footer .copyright a{
 	transition: 0.3s ease;
 	margin: 0 5px;
 }
+
+footer .copyright a:hover{
+	color: #fff !important;
+	background-color: #fb774b !important;
+}
